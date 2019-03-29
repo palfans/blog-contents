@@ -1,0 +1,3 @@
+# Purpose
+
+Used for blog
